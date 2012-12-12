@@ -2,7 +2,7 @@ How to use the birthday class:
 
 ```php
 $instance = new Birthday;
-echo $instance::findAge("mm/dd/yyyy"); //Default
+echo $instance::findAge("1/31/1990","MM/DD/YYYY"); //Make sure the second parameter matches the format of the user's birthday.
 ```
 
 DO WHAT THE FUCK YOU WANT TO + COFFEE/CANDY PUBLIC LICENSE
