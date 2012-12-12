@@ -1,7 +1,6 @@
 How to use the birthday class:
 
 $instance = new Birthday;
-
 echo $instance::findAge("12/14/2012") . "\n";
 
 DO WHAT THE FUCK YOU WANT TO + COFFEE/CANDY PUBLIC LICENSE
