@@ -19,3 +19,5 @@ TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
    you should consider buying the author a cup of coffee or candy so he
    can do late night coding.
 
+You can donate here: https://onx.im/donate/donate.php
+If there are any issues just email hello@onx.im
